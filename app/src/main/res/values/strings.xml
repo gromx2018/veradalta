@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">veradalta2</string>
+    <string name="textView">Bienvenido</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="btnReservar">Reservar</string>
+    <string name="btnModificar">Modificar</string>
+    <string name="btnConsultar">Consultar</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="btnSalirmenu"> </string>
+    <string name="txtUsuario">Usuario</string>
+    <string name="txtPassword">******</string>
+
+    <string name="textReservacion">Reservacion</string>
+    <string name="btnFecha">Fecha: </string>
+    <string name="btnHora">Hora inicio: </string>
+    <string name="btnfin">Hora fin: </string>
+    <string name="btnRegistrarRes">Registrar</string>
+
+    <string name="title_activity_reservacion">Reservacion</string>
+    <string name="title_activity_modificar">Modificar</string>
+
+    <string name="textModificar">Modificar Reservacion</string>
+    <string name="btnFechamod">Fecha: </string>
+    <string name="btnHoramod">Hora Inicio: </string>
+    <string name="btnfinmod">Hora Fin</string>
+    <string name="btnActualizarmod">Actualizar</string>
+
+    <string name="textConsultar">Consultar Reservación</string>
+    <string name="textFecha">Fecha: </string>
+    <string name="textHoraIni">Hora Inicio: </string>
+    <string name="textHoraFin">Hora Fin: </string>
+    <string name="textEspacio">Espacio: </string>
+    <string name="btnConsutarCon">Consultar</string>
+
+    <string name="textView2">Cancelar Reservación</string>
+    <string name="btnCancelarCan">Cancelar</string>
+
+</resources>

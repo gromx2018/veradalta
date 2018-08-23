@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lista_espacios">
+
+        <item> HOYO 1 </item>
+        <item> HOYO 2 </item>
+        <item> CANCHA 1 </item>
+        <item> CANCHA 2</item>
+        <item> CABAÑA </item>
+    </string-array>
+
+    <string-array name="lista_reservaciones">
+
+        <item> RESERVACION1 </item>
+        <item> RESERVACION2 </item>
+        <item> RESERVACION3</item>
+        <item> RESERVACION4</item>
+        <item> RESERACION5 </item>
+    </string-array>
+</resources>
